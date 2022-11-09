@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- Eu sou o Matheus De Carli, desenvolvedor backend!
+
+-  Estou buscando minha primeira oportunidade profissional na área de tecnologia.
+
 <div align="center">
   <a href="https://github.com/decarlimatheus">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=decarlimatheus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
