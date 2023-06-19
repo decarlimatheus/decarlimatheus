@@ -2,7 +2,7 @@
 
 - I'm Matheus De Carli, web developer!
 
--  I am looking for my first professional opportunity in the technology field.
+- I'm looking for my first professional opportunity in the technology field.
 
 <div align="center">
   <a href="https://github.com/decarlimatheus">
