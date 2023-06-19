@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- Eu sou o Matheus De Carli, desenvolvedor backend!
+- I'm Matheus De Carli, web developer!
 
--  Estou buscando minha primeira oportunidade profissional na área de tecnologia.
+-  I am looking for my first professional opportunity in the technology field.
 
 <div align="center">
   <a href="https://github.com/decarlimatheus">
@@ -15,6 +15,7 @@
    <img align="center" alt="Matheus-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
     <img align="center" alt="Matheus-ExpressJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
     <img align="center" alt="Matheus-Sequelize" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg">
+    <img align="center" alt="Matheus-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   </div>
   
 <!--
